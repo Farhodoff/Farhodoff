@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Farhod Soyilov — Software Engineer" width="100%"/>
+<img
+  src="https://raw.githubusercontent.com/Farhodoff/Farhodoff/main/assets/hero.png"
+  alt="Farhod Soyilov — Software Engineer"
+  width="100%"
+/>
 
 <br/>
 
@@ -20,7 +24,11 @@
 
 ## 👨‍💻 About Me
 
-<img src="./assets/about.svg" alt="About Farhod" width="100%"/>
+<img
+  src="https://raw.githubusercontent.com/Farhodoff/Farhodoff/main/assets/about.png"
+  alt="About Farhod"
+  width="100%"
+/>
 
 I’m **Farhod Soyilov**, a full-stack developer focused on building modern web products, AI-powered applications, reusable UI systems, and real-time experiences.
 
