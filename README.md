@@ -1,26 +1,3 @@
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Farhodoff/Farhodoff/main/assets/hero.png"
-  alt="Farhod Soyilov — Software Engineer"
-  width="100%"
-/>
-
-<br/>
-
-<a href="https://farkhod.dev">
-  <img src="https://img.shields.io/badge/PORTFOLIO-farkhod.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/Farhodoff">
-  <img src="https://img.shields.io/badge/GITHUB-Farhodoff-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:fsoyilovv@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-fsoyilovv%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
----
 
 ## 👨‍💻 About Me
 
