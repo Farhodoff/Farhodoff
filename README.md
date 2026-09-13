@@ -95,7 +95,7 @@ An AI-powered Japanese learning platform built around **JLPT N5 → N1** progres
 
 <br/>
 
-<a href="https://github.com/Farhodoff/nihongo-talk">→ View project</a>
+<a href="https://nihon-talk.vercel.app">→ View project</a>
 
 </td>
 
@@ -121,7 +121,7 @@ A reusable React component system focused on **accessible, production-ready inte
 
 <br/>
 
-<a href="https://github.com/Farhodoff/components-main">→ View project</a>
+<a href="http://components-main-nu.vercel.app/#components">→ View project</a>
 
 </td>
 </tr>
