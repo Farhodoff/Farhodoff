@@ -1,0 +1,9 @@
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="170" rx="20" fill="#0F172A"/>
+<rect x="1" y="1" width="898" height="168" rx="19" stroke="#334155"/>
+<circle cx="72" cy="85" r="42" fill="#1E293B"/>
+<text x="72" y="101" text-anchor="middle" fill="#93C5FD" font-family="Arial" font-size="38" font-weight="700">F</text>
+<text x="140" y="65" fill="#F8FAFC" font-family="Arial" font-size="22" font-weight="700">Product-minded engineer</text>
+<text x="140" y="94" fill="#CBD5E1" font-family="Arial" font-size="16">Frontend architecture • AI integrations • Full-stack systems</text>
+<text x="140" y="122" fill="#94A3B8" font-family="Arial" font-size="14">React / TypeScript / Python • PostgreSQL • Supabase • Real-time apps</text>
+</svg>
