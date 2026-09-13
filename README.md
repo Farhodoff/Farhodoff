@@ -195,14 +195,10 @@ I’m especially interested in products combining:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farhodoff&theme=github_dark" width="100%" alt="GitHub profile summary"/>
 </a>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Farhodoff&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhodoff&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="165" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Farhodoff&theme=github_dark" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farhodoff&theme=github_dark" alt="Top languages"/>
 
 </div>
-
-> **If these statistic cards ever fail to load**, the rest of this README is intentionally independent of them. The important profile content uses repository-local assets instead of fragile external image hosts.
 
 ---
 
